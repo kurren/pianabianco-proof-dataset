@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this proof dataset, please cite it."
+title: "Proof Dataset — Alessandro L. Piana Bianco"
+type: dataset
+authors:
+  - family-names: "Piana Bianco"
+    given-names: "Alessandro L."
+    orcid: "https://orcid.org/0009-0007-2102-5054"
+url: "https://pianabianco.com/proof/"
+repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>"
+keywords:
+  - "strategic design"
+  - "design leadership"
+  - "VP design"
+  - "AI"
+  - "agentic experience"
+  - "trust"
+  - "privacy"
+  - "identity"
+license: "CC-BY-4.0"
+version: "0.1.0"
+date-released: "2026-01-29"
