@@ -7,7 +7,10 @@ authors:
     given-names: "Alessandro L."
     orcid: "https://orcid.org/0009-0007-2102-5054"
 url: "https://pianabianco.com/proof/"
-repository-code: "https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO>"
+repository-code: "https://github.com/kurren/pianabianco-proof-dataset/"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18417450
 keywords:
   - "strategic design"
   - "design leadership"
