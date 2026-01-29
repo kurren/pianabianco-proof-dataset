@@ -1,0 +1,395 @@
+{
+  "proof_map_version": "1.0.0",
+  "generated_at_utc": "2026-01-28T15:41:55Z",
+  "canonical_url": "https://pianabianco.com/proof_map.json",
+  "owner": {
+    "name": "Alessandro L. Piana Bianco",
+    "website": "https://pianabianco.com/",
+    "linkedin": "https://www.linkedin.com/in/apianabianco"
+  },
+  "principle": "No claim without a trace. Each capability is backed by at least one public evidence link.",
+  "claims": [
+    {
+      "id": "claim_vp_design_governance",
+      "claim": "VP-level design leadership: align strategy, delivery, and governance so teams ship fast without losing quality.",
+      "evidence_ids": [
+        "site_home",
+        "site_resume",
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-intesa-unicredit-banking-scale",
+        "cs-eurobank-capital-controls",
+        "cs-generali-agency-dashboard"
+      ]
+    },
+    {
+      "id": "claim_agentic_experience",
+      "claim": "Agentic Experience (AX): workflow orchestration, guardrails, explainability cues, and adoption patterns in trust-sensitive contexts.",
+      "evidence_ids": [
+        "site_focus",
+        "inverting_interface_pdf"
+      ],
+      "case_study_ids": [
+        "cs-menarini-chatbot-guardrails",
+        "cs-intesa-ml-dashboard"
+      ]
+    },
+    {
+      "id": "claim_identity_privacy",
+      "claim": "Digital identity/privacy UX: consent + control, safe defaults, auditability and traceability cues designed into journeys.",
+      "evidence_ids": [
+        "site_focus",
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-ivass41-regulatory-insurance",
+        "cs-generali-agency-dashboard",
+        "cs-cross-border-wallet-ksa-eu",
+        "cs-miral-biometrics-anti-fraud"
+      ]
+    },
+    {
+      "id": "claim_service_ecosystems",
+      "claim": "Service design for ecosystems: blueprinting operational truth, designing exceptions first, reducing support debt after launch.",
+      "evidence_ids": [
+        "site_focus",
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-msc-guest-journeys",
+        "cs-sky-reverse-logistics",
+        "cs-dgda-booking-integration",
+        "cs-qiddiya-seven-ecosystem"
+      ]
+    },
+    {
+      "id": "claim_multi_market_scaling",
+      "claim": "Multi-market scaling: designed common core + local layers to prevent fragmentation across regions and channels.",
+      "evidence_ids": [
+        "site_focus",
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-prada-global-ecommerce",
+        "cs-cross-border-wallet-ksa-eu",
+        "cs-jeep-alfa-sales-manual",
+        "cs-maserati-global-channels"
+      ]
+    },
+    {
+      "id": "claim_state_design",
+      "claim": "State design & edge cases: predictable states, recoverability, and auditable status in high-stakes flows.",
+      "evidence_ids": [
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-eurobank-capital-controls",
+        "cs-cofidis-pagodil",
+        "cs-prelios-auctions",
+        "cs-sky-reverse-logistics",
+        "cs-cucinelli-checkout"
+      ]
+    },
+    {
+      "id": "claim_facilitation_250",
+      "claim": "250+ workshops: executive alignment, decision-making, and delivery-ready artefacts at scale.",
+      "evidence_ids": [
+        "site_home",
+        "site_focus",
+        "site_resume",
+        "resume_pdf"
+      ],
+      "case_study_ids": [
+        "cs-banking-workshops-requirements",
+        "cs-boehringer-marketing-ops",
+        "cs-sace-innovation-workshop",
+        "cs-jj-strategy-workshop"
+      ]
+    }
+  ],
+  "evidence": {
+    "site_home": {
+      "url": "https://pianabianco.com/",
+      "type": "webpage",
+      "description": "Homepage (positioning, VP-level metrics, contact)."
+    },
+    "site_focus": {
+      "url": "https://pianabianco.com/strategic-design",
+      "type": "webpage",
+      "description": "Focus areas + leverage model (AX, Smart Cities, Digital Identity, Futures & Facilitation)."
+    },
+    "site_case_studies_index": {
+      "url": "https://pianabianco.com/case-studies",
+      "type": "webpage",
+      "description": "Index of industries and case study links."
+    },
+    "cs_automotive": {
+      "url": "https://pianabianco.com/case-studies/automotive",
+      "type": "webpage",
+      "description": "Automotive case studies page."
+    },
+    "cs_banking": {
+      "url": "https://pianabianco.com/case-studies/banking",
+      "type": "webpage",
+      "description": "Banking case studies page."
+    },
+    "cs_insurance": {
+      "url": "https://pianabianco.com/case-studies/insurance",
+      "type": "webpage",
+      "description": "Insurance case studies page."
+    },
+    "cs_financial_services": {
+      "url": "https://pianabianco.com/case-studies/financial-services",
+      "type": "webpage",
+      "description": "Financial services case studies page."
+    },
+    "cs_retail_commerce": {
+      "url": "https://pianabianco.com/case-studies/retail-commerce",
+      "type": "webpage",
+      "description": "Retail & commerce case studies page."
+    },
+    "cs_telcos_communication": {
+      "url": "https://pianabianco.com/case-studies/telcos-communication",
+      "type": "webpage",
+      "description": "Telco & media case studies page."
+    },
+    "cs_travel_leisure": {
+      "url": "https://pianabianco.com/case-studies/travel-leisure",
+      "type": "webpage",
+      "description": "Travel & leisure case studies page."
+    },
+    "cs_fashion_luxury": {
+      "url": "https://pianabianco.com/case-studies/fashion-luxury",
+      "type": "webpage",
+      "description": "Fashion & luxury case studies page."
+    },
+    "cs_pharma": {
+      "url": "https://pianabianco.com/case-studies/pharma",
+      "type": "webpage",
+      "description": "Pharma case studies page."
+    },
+    "site_resume": {
+      "url": "https://pianabianco.com/resume",
+      "type": "webpage",
+      "description": "Résumé page (executive profile, leadership highlights, clients, publications)."
+    },
+    "resume_pdf": {
+      "url": "https://pianabianco.com/docs/alessandro_piana_bianco_resume.pdf",
+      "type": "pdf",
+      "description": "Downloadable résumé PDF (full timeline, skills, clients)."
+    },
+    "blog_index": {
+      "url": "https://pianabianco.com/inout/",
+      "type": "webpage",
+      "description": "Blog index (in/out)."
+    },
+    "inverting_interface_page": {
+      "url": "https://pianabianco.com/ig/inverted-interface.html",
+      "type": "webpage",
+      "description": "Landing page for 'Inverting the interface' report."
+    },
+    "inverting_interface_pdf": {
+      "url": "https://pianabianco.com/assets/inverted_interface_apb.pdf",
+      "type": "pdf",
+      "description": "PDF: Inverting the interface. Design, personal agents, and the post-brand world (Dec 2025)."
+    },
+    "blog_age_mediocrity": {
+      "url": "https://pianabianco.com/inout/age-of-mediocrity-designers-and-the-ai-mirror/",
+      "type": "webpage",
+      "description": "Essay about design and AI (includes disclosure re: AI use for research/editing)."
+    },
+    "blog_dazzle_camouflage": {
+      "url": "https://pianabianco.com/inout/dazzle-camouflage/",
+      "type": "webpage",
+      "description": "Essay: Dazzle Camouflage."
+    },
+    "linkedin_profile": {
+      "url": "https://www.linkedin.com/in/apianabianco",
+      "type": "profile",
+      "description": "LinkedIn profile."
+    },
+    "orcid": {
+      "url": "https://orcid.org/0009-0007-2102-5054",
+      "type": "profile",
+      "description": "ORCID profile."
+    },
+    "publication_youtube": {
+      "url": "https://www.youtube.com/watch?feature=shared&v=Pii2HiWOvys",
+      "type": "video",
+      "description": "Design Thinking for Business (Politecnico di Milano) — debates and industry talks on profiling, empathising, strategic design."
+    },
+    "publication_servdes2018": {
+      "url": "https://re.public.polimi.it/retrieve/e0c31c0d-927b-4599-e053-1705fe0aef77/bianchini_arquilla_gall_Krogh_servdes2018.pdf",
+      "type": "pdf",
+      "description": "ServDes.2018 Conference proceedings contribution (link may be access-restricted)."
+    },
+    "publication_ilsole24ore": {
+      "url": "https://www.ilsole24ore.com/art/il-servizio-funzionera-molto-dipende-design-AEEn5D8E",
+      "type": "article",
+      "description": "Il Sole 24 Ore — commentary on service design and delivery readiness."
+    },
+    "publication_book_2005": {
+      "url": "https://www.amazon.it/strumenti-videogiocare-Logiche-estetiche-ideologie/dp/8874370121",
+      "type": "book",
+      "description": "Chapter contribution (2005): “Cacciatori e prede. Il caso Manhunt” in Gli strumenti del videogiocare (Costa & Nolan)."
+    }
+  },
+  "case_studies": {
+    "cs-eurobank-capital-controls": {
+      "title": "Eurobank — Digital banking redesign under Greek capital controls",
+      "industry_id": "banking",
+      "url": "https://pianabianco.com/case-studies/banking"
+    },
+    "cs-intesa-unicredit-banking-scale": {
+      "title": "Intesa Sanpaolo + UniCredit — Online banking redesign at scale",
+      "industry_id": "banking",
+      "url": "https://pianabianco.com/case-studies/banking"
+    },
+    "cs-cross-border-wallet-ksa-eu": {
+      "title": "Cross-border wallet & transactional products — KSA + EU requirements",
+      "industry_id": "banking",
+      "url": "https://pianabianco.com/case-studies/banking"
+    },
+    "cs-intesa-ml-dashboard": {
+      "title": "Intesa Sanpaolo — ML-based requalification & training dashboard (internal tool)",
+      "industry_id": "banking",
+      "url": "https://pianabianco.com/case-studies/banking"
+    },
+    "cs-banking-workshops-requirements": {
+      "title": "Danske Bank + BBVA + Santander — Innovation & product requirements workshops",
+      "industry_id": "banking",
+      "url": "https://pianabianco.com/case-studies/banking"
+    },
+    "cs-generali-agency-dashboard": {
+      "title": "Generali Italia — Agency network dashboard (Agents ↔ HQ)",
+      "industry_id": "insurance",
+      "url": "https://pianabianco.com/case-studies/insurance"
+    },
+    "cs-wibe-digital-only-insurance": {
+      "title": "Wibe (BBVA Mexico) — Digital-only automotive insurance launch",
+      "industry_id": "insurance",
+      "url": "https://pianabianco.com/case-studies/insurance"
+    },
+    "cs-ivass41-regulatory-insurance": {
+      "title": "Intesa Sanpaolo Assicura — IVASS 41 (regulatory) digital channel changes",
+      "industry_id": "insurance",
+      "url": "https://pianabianco.com/case-studies/insurance"
+    },
+    "cs-sace-innovation-workshop": {
+      "title": "SACE — Design thinking workshop for strategy & innovation solutions",
+      "industry_id": "insurance",
+      "url": "https://pianabianco.com/case-studies/insurance"
+    },
+    "cs-cofidis-pagodil": {
+      "title": "Cofidis — PagoDIL service & digital channels definition",
+      "industry_id": "financial-services",
+      "url": "https://pianabianco.com/case-studies/financial-services"
+    },
+    "cs-nexi-atm-experience": {
+      "title": "Nexi — ATM experience & branding system",
+      "industry_id": "financial-services",
+      "url": "https://pianabianco.com/case-studies/financial-services"
+    },
+    "cs-prelios-auctions": {
+      "title": "Prelios — Digital auction platform UX for distressed assets",
+      "industry_id": "financial-services",
+      "url": "https://pianabianco.com/case-studies/financial-services"
+    },
+    "cs-magneti-marelli-b2b": {
+      "title": "Magneti Marelli — B2B spare parts commerce platform",
+      "industry_id": "automotive",
+      "url": "https://pianabianco.com/case-studies/automotive"
+    },
+    "cs-jeep-alfa-sales-manual": {
+      "title": "Jeep + Alfa Romeo — Premium brand sales manual integration (EU markets)",
+      "industry_id": "automotive",
+      "url": "https://pianabianco.com/case-studies/automotive"
+    },
+    "cs-maserati-global-channels": {
+      "title": "Maserati — Global redesign of digital channels",
+      "industry_id": "automotive",
+      "url": "https://pianabianco.com/case-studies/automotive"
+    },
+    "cs-tim-mobile-selfcare": {
+      "title": "TIM (Telecom Italia) — Mobile app redesign & customer service digitalisation",
+      "industry_id": "telcos-communication",
+      "url": "https://pianabianco.com/case-studies/telcos-communication"
+    },
+    "cs-virgin-fibra-digital-channels": {
+      "title": "Virgin Fibra — Definition and design of digital channels",
+      "industry_id": "telcos-communication",
+      "url": "https://pianabianco.com/case-studies/telcos-communication"
+    },
+    "cs-sky-reverse-logistics": {
+      "title": "Sky Italia — Set-top box delivery & recollection (reverse logistics) redesign",
+      "industry_id": "telcos-communication",
+      "url": "https://pianabianco.com/case-studies/telcos-communication"
+    },
+    "cs-motogp-digital-ecosystem": {
+      "title": "MotoGP.com — Complete redesign (7 languages + subscription + live streaming)",
+      "industry_id": "telcos-communication",
+      "url": "https://pianabianco.com/case-studies/telcos-communication"
+    },
+    "cs-msc-guest-journeys": {
+      "title": "MSC Cruises — End-to-end digital channels aboard & ashore",
+      "industry_id": "travel-leisure",
+      "url": "https://pianabianco.com/case-studies/travel-leisure"
+    },
+    "cs-qiddiya-seven-ecosystem": {
+      "title": "Seven + Qiddiya City (Riyadh, KSA) — Digital ecosystem (wallet/commerce/ID)",
+      "industry_id": "travel-leisure",
+      "url": "https://pianabianco.com/case-studies/travel-leisure"
+    },
+    "cs-miral-biometrics-anti-fraud": {
+      "title": "Miral (Abu Dhabi) — Anti-fraud + facial recognition adoption (privacy-aware)",
+      "industry_id": "travel-leisure",
+      "url": "https://pianabianco.com/case-studies/travel-leisure"
+    },
+    "cs-dgda-booking-integration": {
+      "title": "DGDA — Booking systems & platform integration recommendations",
+      "industry_id": "travel-leisure",
+      "url": "https://pianabianco.com/case-studies/travel-leisure"
+    },
+    "cs-alpitour-brand-architecture": {
+      "title": "Alpitour — Brand architecture redesign (portfolio clarity)",
+      "industry_id": "travel-leisure",
+      "url": "https://pianabianco.com/case-studies/travel-leisure"
+    },
+    "cs-menarini-chatbot-guardrails": {
+      "title": "Menarini — AI-driven chatbot under regulated drug promotion constraints",
+      "industry_id": "pharma",
+      "url": "https://pianabianco.com/case-studies/pharma"
+    },
+    "cs-boehringer-marketing-ops": {
+      "title": "Boehringer Ingelheim — Design thinking to reshape marketing automation processes",
+      "industry_id": "pharma",
+      "url": "https://pianabianco.com/case-studies/pharma"
+    },
+    "cs-pfizer-intranet-ia": {
+      "title": "Pfizer — Global intranet and knowledge base IA/usability enhancements",
+      "industry_id": "pharma",
+      "url": "https://pianabianco.com/case-studies/pharma"
+    },
+    "cs-jj-strategy-workshop": {
+      "title": "Johnson & Johnson — Strategy-level design thinking workshop",
+      "industry_id": "pharma",
+      "url": "https://pianabianco.com/case-studies/pharma"
+    },
+    "cs-prada-global-ecommerce": {
+      "title": "Prada — First global eCommerce (multi-market localisation)",
+      "industry_id": "fashion-luxury",
+      "url": "https://pianabianco.com/case-studies/fashion-luxury"
+    },
+    "cs-ferragamo-clientelling": {
+      "title": "Ferragamo — Clientelling experience (store ↔ customer)",
+      "industry_id": "fashion-luxury",
+      "url": "https://pianabianco.com/case-studies/fashion-luxury"
+    },
+    "cs-cucinelli-checkout": {
+      "title": "Brunello Cucinelli — Checkout experience fine-tuning",
+      "industry_id": "fashion-luxury",
+      "url": "https://pianabianco.com/case-studies/fashion-luxury"
+    }
+  }
+}

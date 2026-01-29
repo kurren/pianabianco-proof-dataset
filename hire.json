@@ -1,0 +1,52 @@
+{
+  "hire_api_version": "1.0.0",
+  "generated_at_utc": "2026-01-29T05:48:27Z",
+  "canonical_url": "https://pianabianco.com/hire.json",
+  "person_id": "https://pianabianco.com/#alessandro",
+  "name": "Alessandro L. Piana Bianco",
+  "headline": "VP-level design leadership for AI + trust: agentic products, identity/privacy ecosystems, governance at scale.",
+  "location": "Italy (EU/MENA cross-border delivery)",
+  "target_titles": [
+    "VP of Design",
+    "VP, Strategic Design",
+    "VP, Product Design",
+    "VP, Service Design",
+    "Senior Design Director",
+    "Strategic Design Director",
+    "Product Design Director",
+    "Service Design Director",
+    "Innovation Design Director"
+  ],
+  "focus_areas": [
+    "Agentic Experience (AX) and AI-enabled products",
+    "Digital identity, privacy & data governance UX",
+    "Service ecosystems and operational truth",
+    "Design governance at scale (patterns, rituals, QA gates)",
+    "Regulated and high-trust domains (EU/MENA)"
+  ],
+  "proof_urls": {
+    "proof_map_page": "https://pianabianco.com/proof/",
+    "proof_map_json": "https://pianabianco.com/proof_map.json",
+    "career_api": "https://pianabianco.com/career.json",
+    "resume": "https://pianabianco.com/resume",
+    "case_studies": "https://pianabianco.com/case-studies"
+  },
+  "contact": {
+    "email": "a@pianabianco.com",
+    "linkedin": "https://www.linkedin.com/in/apianabianco"
+  },
+  "languages": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "signals": {
+    "experience_years": 20,
+    "workshops_facilitated": 250,
+    "regions": [
+      "EU",
+      "MENA"
+    ]
+  }
+}

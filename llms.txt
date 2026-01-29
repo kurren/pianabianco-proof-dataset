@@ -1,0 +1,34 @@
+# pianabianco.com — AI/Agent index (VP/Director)
+
+This is a curated, token‑efficient index of the most useful assets on this site for automated screening, recruiting copilots, and agentic research.
+
+## Structured truth (machine-readable)
+
+- Person schema (JSON-LD): https://pianabianco.com/schema-person.jsonld  (@id: https://pianabianco.com/#alessandro)
+- Career API (JSON): https://pianabianco.com/career.json
+- Proof Map (JSON): https://pianabianco.com/proof_map.json
+- Hire API (JSON): https://pianabianco.com/hire.json
+
+## Core pages (human-readable)
+
+- Homepage (positioning + metrics): https://pianabianco.com/
+- Focus + leverage model: https://pianabianco.com/strategic-design
+- Case studies index: https://pianabianco.com/case-studies
+- Hire (recruiter/agent landing): https://pianabianco.com/hire/
+- Proof of work (interactive): https://pianabianco.com/proof/
+- Résumé: https://pianabianco.com/resume
+- Résumé (PDF): https://pianabianco.com/docs/alessandro_piana_bianco_resume.pdf
+- Writing index (site): https://pianabianco.com/writings
+
+## Thought leadership (agentic / AI)
+
+- Executive report landing page (personal agents): https://pianabianco.com/ig/inverted-interface.html
+- In/out (blog home): https://pianabianco.com/inout/
+- In/out topics: https://pianabianco.com/inout/topics/
+- Inverting the interface (post): https://pianabianco.com/inout/inverting-the-interface-design-personal-agents-and-the-post-brand-world/
+- Age of mediocrity (AI + design): https://pianabianco.com/inout/age-of-mediocrity-designers-and-the-ai-mirror/
+- Dazzle camouflage (signals / perception): https://pianabianco.com/inout/dazzle-camouflage/
+
+## Target roles
+
+VP of Design · VP/Director Strategic Design · VP/Director Product Design · VP/Director Service Design · Senior Design Director · Innovation Design Director

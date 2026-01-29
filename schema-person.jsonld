@@ -1,0 +1,110 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://pianabianco.com/#alessandro",
+      "name": "Alessandro L. Piana Bianco",
+      "url": "https://pianabianco.com/",
+      "image": "https://pianabianco.com/assets/img/portrait.jpg",
+      "email": "mailto:a@pianabianco.com",
+      "jobTitle": [
+        "VP-level Design Leader",
+        "Strategic & Innovation Design Director",
+        "Product & Service Design Leader"
+      ],
+      "description": "VP-level design leadership for complex, trust-critical digital products and services across EU and MENA. Aligns strategy, delivery, and governance so teams can ship fast without losing quality—especially in AI, identity/privacy, regulated UX, and service ecosystems.",
+      "homeLocation": {
+        "@type": "Place",
+        "name": "Italy"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IT"
+      },
+      "knowsLanguage": [
+        "English",
+        "French",
+        "Spanish",
+        "Italian"
+      ],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "Università degli Studi di Torino"
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/apianabianco"
+      ],
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ORCID",
+          "value": "0009-0007-2102-5054"
+        }
+      ],
+      "knowsAbout": [
+        "Agentic Experience (AX)",
+        "Human–AI collaboration",
+        "Trust and safety UX",
+        "AI/ML decision support UX",
+        "Explainability patterns",
+        "Guardrails and governance for AI",
+        "Digital identity",
+        "Privacy and consent UX",
+        "Service design",
+        "Complex systems",
+        "State design and recoverability",
+        "Design governance at scale",
+        "Design systems and pattern libraries",
+        "Workshops and facilitation",
+        "EU and MENA delivery"
+      ],
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Vice President of Design",
+          "description": "Executive/VP-level design leadership: portfolio direction, org operating model, governance, quality and strategy."
+        },
+        {
+          "@type": "Occupation",
+          "name": "Design Director",
+          "description": "Design direction across complex products/services; scaling quality through patterns, state design, and delivery rituals."
+        },
+        {
+          "@type": "Occupation",
+          "name": "Service Design Director",
+          "description": "End-to-end service ecosystems; operational truth, blueprinting, and governance that ships."
+        },
+        {
+          "@type": "Occupation",
+          "name": "Strategic Design Director",
+          "description": "Ambiguity-to-decision leadership; framing, prioritisation, and decision artefacts that enable delivery."
+        },
+        {
+          "@type": "Occupation",
+          "name": "Product Design Director",
+          "description": "Product direction and UX leadership for trust-critical and AI-enabled products; state design and measurable outcomes."
+        }
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "contactType": "business inquiries",
+          "email": "a@pianabianco.com",
+          "url": "https://pianabianco.com/"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://pianabianco.com/#website",
+      "url": "https://pianabianco.com/",
+      "name": "pianabianco.com",
+      "publisher": {
+        "@id": "https://pianabianco.com/#alessandro"
+      }
+    }
+  ]
+}
