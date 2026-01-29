@@ -33,4 +33,5 @@ Client names and trademarks belong to their respective owners.
 - LinkedIn: https://www.linkedin.com/in/apianabianco
 - Website: https://pianabianco.com
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18417450.svg)](https://doi.org/10.5281/zenodo.18417450)
+[[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18417450.svg)](https://doi.org/10.5281/zenodo.18417450)
+](https://zenodo.org/badge/DOI/10.5281/zenodo.18417450.svg)
